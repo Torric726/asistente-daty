@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: mode === 'production' ? '/daty-asistente-academico/' : '/', // Condicional: base '/' en desarrollo y '/daty-asistente-academico/' en producción
   server: {
     host: "::",
     port: 8080,

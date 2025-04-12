@@ -68,7 +68,7 @@ const serviceDetails = [
   {
     id: "3",
     name: "PROYECTOS Y ESTRATEGIAS",
-    price: 7,
+    price: 8,
     description: "Desarrollo de proyectos y estrategias para impulsar tu negocio o iniciativa.",
     longDescription: "Diseñamos y desarrollamos proyectos a medida y estrategias efectivas para convertir tus ideas en realidades concretas. Nuestro enfoque metodológico y orientado a resultados te ayuda a definir objetivos claros, establecer planes de acción y optimizar recursos para alcanzar el éxito en tus iniciativas.",
     features: [
